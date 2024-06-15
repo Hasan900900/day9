@@ -1,0 +1,32 @@
+div {
+   
+    width: 95vw;
+    max-height:4vh;
+    color: aliceblue;
+    margin: 4px;
+    border-radius: 10px 20px;
+    
+}
+
+
+ .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    
+ }
+
+ button{
+    border-radius: 50px 20px;
+ }
+  input {
+      border-radius: 50px 20px;
+  }
+div#mylist div {
+    text-align: center;
+    padding: 5px 0px;
+    overflow-y: none;
+   
+    
+}
